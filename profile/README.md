@@ -9,4 +9,4 @@ This project aims to make code review easier and more common in research. The fi
 🙋🏾 [Contributor Tracking](https://docs.google.com/spreadsheets/d/1NJY-jt2T1MlWYiJ5P1sL8aGscYYzrCuZ1ThXFbdFWKI/edit#gid=0)  
 💬 [Discussions](https://github.com/orgs/code-check-club/discussions) (replacing the [Slack](https://join.slack.com/t/codereviewguide/)) 
 
-This group is open to anyone who wants to join, at any level of expertise. Check the brainstorming document for the link to join the Slack, where we discuss projects and tasks.
+This group is open to anyone who wants to join, at any level of expertise. We will discuss projects and tasks in the github discussions tab here, so contact [Lisa](mailto:debruine@gmail.com?subject=Add me to Code Check github) to be added to this org (you will need a github account).
