@@ -11,3 +11,5 @@ This project aims to make code review easier and more common in research. The fi
 📖 [Guide](https://code-check-club.github.io/code-review-guide/) (just in outline form for now)
 
 This group is open to anyone who wants to join, at any level of expertise. We will discuss projects and tasks in the github discussions tab here, so contact [Lisa](mailto:debruine@gmail.com?subject=Add%20me%20to%20Code%20Check%20github) to be added to this org (you will need a github account).
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/code-check-club/.github/blob/main/CODE_OF_CONDUCT.md) 
