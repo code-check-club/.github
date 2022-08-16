@@ -12,4 +12,4 @@ This project aims to make code review easier and more common in research. The fi
 
 This group is open to anyone who wants to join, at any level of expertise. We will discuss projects and tasks in the github discussions tab here, so contact [Lisa](mailto:debruine@gmail.com?subject=Add%20me%20to%20Code%20Check%20github) to be added to this org (you will need a github account).
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/code-check-club/.github/blob/main/CODE_OF_CONDUCT.md) 
+Code of Conduct: [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/code-check-club/.github/blob/main/CODE_OF_CONDUCT.md) 
